@@ -25,12 +25,12 @@ Mongoose: https://www.npmjs.com/package/mongoose
 1. Clone the app: git clone https://github.com/siuols/NextJS-CRUD.git
 2. Create MongoDB account
 3. setup environment variables (.env)
-  - GOOGLE_ID=
-    GOOGLE_CLIENT_SECRET=
-    MONGODB_URI=
-    NEXTAUTH_URL=http://localhost:3000
-    NEXTAUTH_URL_INTERNAL=http://localhost:3000
-    NEXTAUTH_SECRET=
+  - GOOGLE_ID=<br />
+    GOOGLE_CLIENT_SECRET=<br />
+    MONGODB_URI=<br />
+    NEXTAUTH_URL=http://localhost:3000<br />
+    NEXTAUTH_URL_INTERNAL=http://localhost:3000<br />
+    NEXTAUTH_SECRET=<br />
 4. Install dependencies ```bash $ npm i ```
 5. Run server ```bash $ npm run dev ```
     
